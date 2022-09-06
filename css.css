@@ -1,7 +1,7 @@
 
 .try{
     position: absolute;
-    left:50%;
+    left:calc(50% - 50px);
     top:calc(50% - 50px);
     
     width: 100px;
