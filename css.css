@@ -16,11 +16,26 @@
 }
 
 @keyframes rotate-right {
-    from{
+
+    0%   {
         transform: rotate(0);
+        border-color: rgb(241, 11, 11);
+}
+    25%  {
+        
+        transform: rotate(90deg);
+        border-color: rgb(252, 228, 16);
     }
-    to{
-        transform: rotate(360deg);
+    50%  {        transform: rotate(180deg);
+        border-color: rgb(37, 247, 30);
     }
+    75%  {        transform: rotate(270deg);
+        border-color: rgb(39, 16, 245);
+    }
+    100% {        transform: rotate(360deg);
+        border-color: rgb(231, 14, 202);
+    }
+
+
 
 }
