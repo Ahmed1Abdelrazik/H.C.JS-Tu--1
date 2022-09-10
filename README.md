@@ -1,2 +1,2 @@
 # loading_template-html_css
-https://github.com/Ahmed1Abdelrazik/H.C.JS-Tu--1
+https://ahmed1abdelrazik.github.io/loading_template-html_css/
